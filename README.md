@@ -8,7 +8,7 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 [![Youtube Badge](https://img.shields.io/badge/-Shalashaska-de0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
 [![Steam Badge](https://img.shields.io/badge/-Shalashaska-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Shalashaska_44/)](https://steamcommunity.com/id/Shalashaska_44/)
-[![EG Badge](https://img.shields.io/badge/-Shalashaska-242424?style=flat-square&logo=epic-games&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
+[![EG Badge](https://img.shields.io/badge/-Shalashaska__44-242424?style=flat-square&logo=epic-games&logoColor=white&link=#)](#)
 
 ## 🧠 Skills
 
