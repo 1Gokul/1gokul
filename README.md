@@ -12,8 +12,8 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ## 🧠 Skills
 
 ![C++](https://img.shields.io/badge/-C++-323680?style=flat-square&logo=c)
-![UE4](https://img.shields.io/badge/UE4-%23313131.svg?&style=flat-square&logo=unreal%20engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender%20-%23F5792A.svg?&style=flat-square&logo=blender&logoColor=white)
+![UE4++](https://img.shields.io/badge/-UE4-363837?style=flat-square&logo=unreal-engine)
+![Blender](https://img.shields.io/badge/-Blender-e67e00?style=flat-square&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
@@ -25,8 +25,7 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ![JavaScript](https://img.shields.io/badge/-JavaScript(Learning!)-526900?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs(Learning!)-224f44?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap(Learning!)-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript(Learning!)-2d5473?style=flat-square&logo=typescript)
+![VueJS](https://img.shields.io/badge/-VueJS(Learning!)-2d5473?style=flat-square&logo=vue.js)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true)
