@@ -3,11 +3,12 @@
 I am a student from Pune pursuing a degree in Computer Science. I have experience making game projects with Unreal Engine 4 and am currently learning web development. I am enthusiastic about anything technology-related. Always open to collaborate on projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
+[![Github.io Badge](https://img.shields.io/badge/-1gokul.github.io-1a5c44?style=flat-square&logo=Github&link=https://1gokul.github.io/)](https://1gokul.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-otaconliquid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
-[![Youtube Badge](https://img.shields.io/badge/-zygoat-de0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
-[![Github.io Badge](https://img.shields.io/badge/-1gokul.github.io-1a5c44?style=flat-square&logo=Github&link=https://1gokul.github.io/)](https://1gokul.github.io/)
-
+[![Youtube Badge](https://img.shields.io/badge/-Shalashaska-de0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
+[![Steam Badge](https://img.shields.io/badge/-Shalashaska-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Shalashaska_44/)](https://steamcommunity.com/id/Shalashaska_44/)
+[![EG Badge](https://img.shields.io/badge/-Shalashaska-242424?style=flat-square&logo=epic-games&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
 
 ## 🧠 Skills
 
@@ -17,6 +18,7 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-0b0085?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
