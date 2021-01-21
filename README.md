@@ -7,7 +7,7 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 [![Gmail Badge](https://img.shields.io/badge/-otaconliquid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 [![Youtube Badge](https://img.shields.io/badge/-Shalashaska-de0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
-[![Steam Badge](https://img.shields.io/badge/-Shalashaska-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Shalashaska_44/)](https://steamcommunity.com/id/Shalashaska_44/)
+[![Steam Badge](https://img.shields.io/badge/-Shalashaska__44-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Shalashaska_44/)](https://steamcommunity.com/id/Shalashaska_44/)
 [![EG Badge](https://img.shields.io/badge/-Shalashaska__44-242424?style=flat-square&logo=epic-games&logoColor=white&link=#)](#)
 
 ## 🧠 Skills
@@ -30,10 +30,14 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ![VueJS](https://img.shields.io/badge/-VueJS(Learning!)-2d5473?style=flat-square&logo=vue.js)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide=TeX&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
+
+
 
 <!--
 **1Gokul/1gokul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
