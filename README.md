@@ -33,8 +33,6 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide=TeX&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
 
 
