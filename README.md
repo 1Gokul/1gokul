@@ -1,6 +1,6 @@
 ## Hi there, I'm Gokul! 👋
 
-I am a student from Pune pursuing a degree in Computer Science. I have experience making game projects with Unreal Engine 4 and am currently learning web development. I am enthusiastic about anything technology-related. Always open to collaborate on projects!
+I am a student from Pune pursuing a degree in Computer Science,  currently making web apps while learning web development. I also have experience making game projects with Unreal Engine 4. I am enthusiastic about anything technology-related. Always open to collaborate on projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
 [![Github.io Badge](https://img.shields.io/badge/-1gokul.github.io-1a5c44?style=flat-square&logo=Github&link=https://1gokul.github.io/)](https://1gokul.github.io/)
@@ -20,21 +20,26 @@ I am a student from Pune pursuing a degree in Computer Science. I have experienc
 ![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-0b0085?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-d1e2ff?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
-![JavaScript](https://img.shields.io/badge/-JavaScript(Learning!)-526900?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs(Learning!)-224f44?style=flat-square&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-526900?style=flat-square&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-038cfc?style=flat-square&logo=jquery)
+![Nodejs](https://img.shields.io/badge/-Node(Learning!)-224f44?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express(Learning!)-3dad89?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
-![VueJS](https://img.shields.io/badge/-VueJS(Learning!)-2d5473?style=flat-square&logo=vue.js)
+![VueJS](https://img.shields.io/badge/-Vue(Learning!)-2d5473?style=flat-square&logo=vue.js)
 
+## 💪 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=1Gokul&theme=dracula)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
 
 
 <!--
