@@ -26,10 +26,10 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-526900?style=flat-square&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-038cfc?style=flat-square&logo=jquery)
-![Nodejs](https://img.shields.io/badge/-Node(Learning!)-224f44?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express(Learning!)-3dad89?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/-Django(Learning!)-224f44?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI(Learning!)-700000?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
-![VueJS](https://img.shields.io/badge/-Vue(Learning!)-2d5473?style=flat-square&logo=vue.js)
+![Vue](https://img.shields.io/badge/-Vue(Learning!)-2d5473?style=flat-square&logo=vue.js)
 
 ## 💪 Stats
 
