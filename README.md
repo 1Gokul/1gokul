@@ -7,29 +7,24 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 [![Gmail Badge](https://img.shields.io/badge/-otaconliquid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 [![Youtube Badge](https://img.shields.io/badge/-Shalashaska-de0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
-[![Steam Badge](https://img.shields.io/badge/-Shalashaska__44-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Shalashaska_44/)](https://steamcommunity.com/id/Shalashaska_44/)
-[![EG Badge](https://img.shields.io/badge/-Shalashaska__44-242424?style=flat-square&logo=epic-games&logoColor=white&link=#)](#)
 
 ## 🧠 Skills
 
 ![C++](https://img.shields.io/badge/-C++-323680?style=flat-square&logo=c)
 ![UE4++](https://img.shields.io/badge/-UE4-363837?style=flat-square&logo=unreal-engine)
-![Blender](https://img.shields.io/badge/-Blender-e67e00?style=flat-square&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-d1e2ff?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-526900?style=flat-square&logo=javascript)
-![JQuery](https://img.shields.io/badge/-JQuery-038cfc?style=flat-square&logo=jquery)
-![Django](https://img.shields.io/badge/-Django(Learning!)-224f44?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI(Learning!)-700000?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue(Learning!)-2d5473?style=flat-square&logo=vue.js)
+![Node](https://img.shields.io/badge/Node.js(Learning!)-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 
 ## 💪 Stats
 
