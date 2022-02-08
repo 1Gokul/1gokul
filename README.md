@@ -3,10 +3,9 @@
 I am a student from Pune pursuing a degree in Computer Science,  currently making web apps while learning web development. I also have experience making game projects with Unreal Engine 4. I am enthusiastic about anything technology-related. Always open to collaborate on projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
-[![Github.io Badge](https://img.shields.io/badge/-1gokul.github.io-1a5c44?style=flat&logo=Github&link=https://1gokul.github.io/)](https://1gokul.github.io/)
+[![Github.io Badge](https://img.shields.io/badge/-gokulv.netlify.app-1a5c44?style=flat&logo=Github&link=https://gokulv.netlify.app/)](https://gokulv.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-otaconliquid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
-[![Youtube Badge](https://img.shields.io/badge/-Shalashaska-de0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)](https://www.youtube.com/channel/UCUj9l2XM71Xtq5QMDsGtNlw)
 
 ## 🧠 Skills
 
