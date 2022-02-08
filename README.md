@@ -4,7 +4,7 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 
 [![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
 [![Github.io Badge](https://img.shields.io/badge/-gokulv.netlify.app-1a5c44?style=flat&logo=Github&link=https://gokulv.netlify.app/)](https://gokulv.netlify.app)
-[![Gmail Badge](https://img.shields.io/badge/-otaconliquid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:otaconliquid@gmail.com)](mailto:otaconliquid@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gokulviswanath@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gokulviswanath@protonmail.com)](mailto:gokulviswanath@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 
 ## 🧠 Skills
