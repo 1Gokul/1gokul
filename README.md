@@ -7,15 +7,11 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 [![Gmail Badge](https://img.shields.io/badge/-gokulviswanath@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gokulviswanath@protonmail.com)](mailto:gokulviswanath@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 
-## 💪 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
+![Metrics](https://metrics.lecoq.io/1gokul?template=classic&languages=1&stars=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FKolkata)
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=1Gokul&theme=dracula)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
 
 
 <!--
