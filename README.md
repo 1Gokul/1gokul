@@ -8,7 +8,7 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 
 
-![Metrics](https://metrics.lecoq.io/1gokul?template=classic&languages=1&stars=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FKolkata)
+![metrics](https://raw.githubusercontent.com/1Gokul/1gokul/main/github-metrics.svg)
 
 
 
