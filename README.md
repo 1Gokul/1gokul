@@ -1,6 +1,6 @@
 ## Hi there, I'm Gokul! 👋
 
-I am a student from Pune pursuing a degree in Computer Science,  currently making web apps while learning web development, while also making (simple)games in my free time. Always open to collaborate on projects!
+I develop web apps at [Intellect](https://intellect.co), while also making (simple)games in my free time. Always open to collaborate on projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
 [![Github.io Badge](https://img.shields.io/badge/-gokulv.netlify.app-1a5c44?style=flat&logo=Github&link=https://gokulv.netlify.app/)](https://gokulv.netlify.app)
