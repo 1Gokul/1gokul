@@ -13,8 +13,6 @@ I develop software at [Intellect](https://intellect.co) and also create (simple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=1Gokul&theme=dracula)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
 
 
