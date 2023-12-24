@@ -11,11 +11,6 @@ I develop software at [Intellect](https://intellect.co) and also create (simple)
 
 ![Github Stats](https://readme-stats-omega-ten.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gokul&hide=TeX&layout=compact&theme=material-palenight)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
-
-
 <!--
 **1Gokul/1gokul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
