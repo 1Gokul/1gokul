@@ -1,4 +1,4 @@
-## Hi there, I'm Gokul! 👋
+## Hello, I'm Gokul! 👋
 
 I develop software at [Intellect](https://intellect.co) and also create (simple)games in my free time.
 
