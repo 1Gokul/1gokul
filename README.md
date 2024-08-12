@@ -7,10 +7,6 @@ I develop software at [Intellect](https://intellect.co) and also create (simple)
 [![Gmail Badge](https://img.shields.io/badge/-gokulviswanath@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gokulviswanath@protonmail.com)](mailto:gokulviswanath@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
 
-## 💪 Stats
-
-![Github Stats](https://readme-stats-omega-ten.vercel.app/api?username=1gokul&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
-
 <!--
 **1Gokul/1gokul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
