@@ -2,11 +2,9 @@
 
 I develop software at [Intellect](https://intellect.co) and also create (simple)games in my free time.
 
-[![Linkedin Badge](https://img.shields.io/badge/-gokulviswanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-viswanath-31383b193//)](https://www.linkedin.com/in/gokul-viswanath-31383b193/)
-[![Github.io Badge](https://img.shields.io/badge/-gokulv.netlify.app-1a5c44?style=flat&logo=Github&link=https://gokulv.netlify.app/)](https://gokulv.netlify.app)
-[![Gmail Badge](https://img.shields.io/badge/-gokulviswanath@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gokulviswanath@protonmail.com)](mailto:gokulviswanath@protonmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-1gokulv-33a3bd?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/1gokulv/)](https://twitter.com/1gokulv/)
-
+[![website](https://flat.badgen.net/badge/website/gokulv.netlify.app/489597)](https://gokulv.netlify.app)
+[![linkedin](https://flat.badgen.net/badge/linkedin/gokul-viswanath/0a66c2)](https://www.linkedin.com/in/gokul-viswanath)
+[![email](https://flat.badgen.net/badge/email/gokulviswanath[at]protonmail[dot]com/6D49FF)](mailto:gokulviswanath@protonmail.com)
 <!--
 **1Gokul/1gokul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
