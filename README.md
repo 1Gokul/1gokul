@@ -1,6 +1,6 @@
 ## Hello, I'm Gokul! 👋
 
-I develop software at [Intellect](https://intellect.co) and also create (simple)games in my free time.
+I develop software at [Intellect](https://intellect.co) and also develop (simple)games in my free time.
 
 [![website](https://flat.badgen.net/badge/website/gokulv.netlify.app/489597)](https://gokulv.netlify.app)
 [![linkedin](https://flat.badgen.net/badge/linkedin/gokul-viswanath/0a66c2)](https://www.linkedin.com/in/gokul-viswanath)
